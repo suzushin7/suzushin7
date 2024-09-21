@@ -24,7 +24,7 @@ Personally, I especially like Kotlin and C#.
 
 ## Dream
 
-I want to become an individual game developer who handles character graphics, scenarios, BGM, programming, etc. all by myself.\n
+I want to become an individual game developer who handles character graphics, scenarios, BGM, programming, etc. all by myself.
 I also want people all over the world to play the game apps I've developed, and someday become famous as a very popular game creator.
 
 ## Projects
