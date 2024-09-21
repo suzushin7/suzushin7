@@ -1,16 +1,40 @@
-## Hi there 👋
+# 鈴木俊吾（すずしん）/ Shingo Suzuki
 
-<!--
-**suzushin7/suzushin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, welcome to my GitHub profile page!
+I'm glad to meet you!
 
-Here are some ideas to get you started:
+I work as a freelance multi-content creator.
+My current main activities are a blogger, personal development game creator, Kindle author, composer, and investor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am trying through trial and error to make a major turnaround in my life.
+I want to become someone who can make a big impact on the world someday.
+
+## Skill
+
+I mainly deal with the following programming languages.
+Personally, I especially like Kotlin and C#.
+
+- Java
+- Kotlin
+- C#
+- PHP
+- HTML
+- CSS
+- JavaScript
+
+## Dream
+
+I want to become an individual game developer who handles character graphics, scenarios, BGM, programming, etc. all by myself.
+I also want people all over the world to play the game apps I've developed, and someday become famous as a very popular game creator.
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suzushin7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzushin7&layout=compact&theme=tokyonight)
+
+## Contact
+
+- 📚️[Blog](https://suzushinlab.com/)
+- 🦜[Twitter](https://twitter.com/suzushin7)
+- 📷️[Instagram](https://instagram.com/suzushin7.lifechallenge)
+- 🎥[YouTube](https://youtube.com/@suzushin7.lifechallenge)
