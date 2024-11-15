@@ -27,17 +27,6 @@ Personally, I especially like Kotlin and C#.
 I want to become an individual game developer who handles character graphics, scenarios, BGM, programming, etc. all by myself.
 I also want people all over the world to play the game apps I've developed, and someday become famous as a very popular game creator.
 
-## Projects
-
-The main projects currently being developed are as follows.
-
-### Kraft
-
-This is a self-made static site generator developed with Kotlin.
-I use Kraft to run my blog.
-
-- [Kraft](https://github.com/suzushin7/Kraft)
-
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suzushin7&show_icons=true&theme=tokyonight)
