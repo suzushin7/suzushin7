@@ -30,10 +30,6 @@ Personally, I especially like Kotlin and C#.
 I want to become an individual game developer who handles character graphics, scenarios, BGM, programming, etc. all by myself.
 I also want people all over the world to play the game apps I've developed, and someday become famous as a very popular game creator.
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzushin7&layout=compact&theme=vision-friendly-dark)
-
 ## Contact
 
 - 📚️ [Blog](https://suzushinlab.com/)
