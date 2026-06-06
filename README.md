@@ -21,6 +21,7 @@ Personally, I especially like Kotlin and C#.
 - HTML
 - CSS
 - JavaScript
+-TypeScript
 
 ## Dream
 
@@ -37,4 +38,4 @@ I also want people all over the world to play the game apps I've developed, and 
 - 📚️ [Blog](https://suzushinlab.com/)
 - 🦜 [Twitter](https://twitter.com/suzushin7)
 - 📷️ [Instagram](https://instagram.com/suzushin7.lifechallenge)
-- 🎥 [YouTube](https://youtube.com/@suzushin7.lifechallenge)
+- 🎥 [YouTube](https://youtube.com/@suzushin7)
