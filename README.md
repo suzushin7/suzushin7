@@ -32,8 +32,7 @@ I also want people all over the world to play the game apps I've developed, and 
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suzushin7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzushin7&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzushin7&layout=compact&theme=vision-friendly-dark)
 
 ## Contact
 
