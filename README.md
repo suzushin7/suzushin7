@@ -1,5 +1,7 @@
 # 鈴木俊吾（すずしん）/ Shingo Suzuki
 
+![](https://komarev.com/ghpvc/?username=suzushin7)
+
 Hi, welcome to my GitHub profile page!
 I'm glad to meet you!
 
