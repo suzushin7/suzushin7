@@ -21,7 +21,7 @@ Personally, I especially like Kotlin and C#.
 - HTML
 - CSS
 - JavaScript
--TypeScript
+- TypeScript
 
 ## Dream
 
